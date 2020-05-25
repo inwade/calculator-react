@@ -1,0 +1,15 @@
+.input {
+    width:240px;
+    height:90px;
+    background-color: #433437;
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 32px;
+    border-bottom: 1px solid #f2274f;
+}
+
+.input h2 {
+    margin-right: 10px;
+}

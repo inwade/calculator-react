@@ -1,0 +1,23 @@
+.calculator-holder {
+    width: 240px;
+    height: 300x;
+    margin: 50px auto;
+    border: 1px solid #f2274f;
+}
+
+
+.first-row {
+    display: flex;
+}
+
+.second-row {
+    display: flex;
+}
+
+.third-row {
+    display:flex;
+}
+
+.fourth-row {
+    display: flex;
+}

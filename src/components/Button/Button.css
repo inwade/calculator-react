@@ -1,0 +1,61 @@
+.button {
+    width: 60px;
+    height: 60px;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.button :hover {
+    cursor:pointer;
+}
+
+.button p {
+    margin: 0;
+    font-weight: bold;
+    font-size: 32px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.calc-actions {
+    background-color: #f2274f;
+    color:#fff;
+}
+
+.calc-buttons {
+    background-color: #fff ;
+    color:#f2274f;
+}
+
+.zero-button-borders {
+    border-bottom: 1px solid #921029;
+}
+
+.divide-button-borders {
+    border-left:1px solid #921029;
+    border-bottom: 1px solid #921029;
+}
+
+.seven-button-borders {
+    border-right:1px solid #921029 ;
+    border-bottom:1px solid #921029 ;
+}
+
+.eight-button-borders {
+    border-bottom: 1px solid #921029;
+    border-right: 1px solid #921029;
+}
+.nine-button-borders {
+    border-bottom: 1px solid #921029;
+}
+
+.minus-button-borders {
+    border-bottom: 1px solid #921029;
+    border-left: 1px solid #921029;
+}
+
+.pointer {
+    cursor: pointer;
+}
